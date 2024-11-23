@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="../../Public/Assets/statics/Pokemones.css">
-        <title>Pokemones</title>
+        <title>Visualizar</title>
     </head>
     <body>
         <?php
